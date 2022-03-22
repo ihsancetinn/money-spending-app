@@ -1,0 +1,96 @@
+[
+  {
+      "id":1,
+      "title":"Sakız",
+      "price":1,
+       "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+  },  
+  {
+    "id":2,
+    "title":"Kola",
+    "price":15,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+}, 
+{
+    "id":3,
+    "title":"Ayakkabı",
+    "price":400,
+    "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+}, 
+{
+    "id":4,
+    "title":"Araba",
+    "price":150000,
+    "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+},{
+    "id":5,
+    "title":"Iphone",
+    "price":15000, 
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+},{
+    "id":6,
+    "title":"Sıvı yağ",
+    "price":250,
+    "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/04110408/04110408-48eba7.jpg"
+},{
+    "id":7,
+    "title":"Şeker",
+    "price":50,
+    "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03312736/03312736-f1d13e.jpg"
+},
+{
+    "id":8,
+    "title":"Baharat",
+    "price":70,
+    "image":"https://www.segmen.com.tr/segmen-baharat-sepeti-9-cesit-pet-baharat-segmen-bal-recel-192-19-B.jpg"
+},
+{
+    "id":9,
+    "title":"Bebek Bezi",
+    "price":170,
+    "image":"https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/8680075430719_1.jpg"
+},
+{
+    "id":10,
+    "title":"Kaşar Peynir",
+    "price":95,
+    "image":"https://cdn.akakce.com/sutas/sutas-600-gr-taze-kasar-i-z.jpg"
+},
+{
+    "id":11,
+    "title":"Torku Banada",
+    "price":40,
+    "image":"https://cdn.dsmcdn.com/mnresize/500/-/ty324/product/media/images/20220208/14/46945835/15808705/1/1_org.jpg"
+},
+{
+    "id":12,
+    "title":"Patlıcan",
+    "price":41,
+    "image":"https://iasbh.tmgrup.com.tr/afa5dd/1200/627/0/1/800/420?u=https://isbh.tmgrup.com.tr/sbh/2020/05/14/patlicanin-faydalari-nelerdir-patlican-neye-hangi-hastaliklara-iyi-gelir-1589450317542.jpg"
+},
+{
+    "id": 13,
+    "title": "Çanta",
+    "price": 15000,
+    "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Elmas",
+    "price": 1578787,
+    "image": "https://www.bilgiustam.com/resimler/2017/12/10841_elmas-05.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Mona Lisa",
+    "price": 20000000,
+    "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Ekmek",
+    "price": 2.75,
+    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+  }
+
+]
